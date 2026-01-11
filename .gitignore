@@ -1,0 +1,30 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.html
+*.pdf
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Shell history
+.bash_history
+
+# Compiled binaries or outputs
+*.out
+*.o
+*.class
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*~
