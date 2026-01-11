@@ -25,6 +25,10 @@ This repository is where I showcase my technical competency through practical sc
 - **Sys Config Backup to S3**  
   Compresses and uploads ArcGIS config directories to S3 with timestamped logs and bucket validation.
 
+- **Setup K8s with KubeAdm**
+  Enable you simply to install kubeadm cluster on  master node and same for workers. Simply create instances with clsuter system requirments 
+  and then ssh into each machine ; get its ip and set hostname then update & run script. same steps for master and worker nodes. 
+
 More workflows will be added over time as I continue refining, testing, and expanding this toolkit.
 
 ---
